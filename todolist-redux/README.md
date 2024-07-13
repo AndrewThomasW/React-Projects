@@ -1,4 +1,3 @@
-# Project Title
 
 Asynchronous Actions with React-Redux
 
