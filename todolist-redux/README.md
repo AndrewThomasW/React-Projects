@@ -1,6 +1,4 @@
 
-Asynchronous Actions with React-Redux
-
 ## About the Project
 
 ### Project Overview
